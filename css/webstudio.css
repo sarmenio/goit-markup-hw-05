@@ -303,16 +303,16 @@
 
 
 .modal-button {
+    padding: 0;
     background-color: transparent;
     border: none;
+    display: inline-flex;
     outline: none;
-    padding-top: 5px;
 
     cursor: pointer;
     justify-content: center;
     align-items: center;
 }
-
 
 /* секция особенности/преимущества */
 .advanteges-section {
@@ -763,4 +763,3 @@ font-weight: 700;
 .joinus-link:focus .thumb-socialnets-footer {
     background-color: var(--blue-text-button);
 }
-
