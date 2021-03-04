@@ -121,11 +121,6 @@
 }
 
 
-.link-title a:visited {
-    color: var(--visited-text);
-    font-weight: 300;
-}
-
 .link-title-studio.current {
     color: var(--blue-text-button); 
 } 
@@ -174,12 +169,6 @@
 .link-contacts a:hover,
 .link-contacts a:focus {
     color: var(--blue-text-button);
-}
-
-
-.link-contacts a:visited {
-    color: var(--visited-text);
-    font-weight: 300;
 }
 
 
@@ -382,7 +371,7 @@
 
 .ourservice {
     color: var(--black-text-main);
-    font-weight: 500;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.16;
     text-align: center;
@@ -454,7 +443,7 @@
 
 .ourteam-title {
     color: var(--black-text-main);
-    font-weight: 500;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.16;
     text-align: center;
@@ -702,9 +691,6 @@
     color: var(--blue-text-button);
     }
 
-.footer-links a:visited {
-    color: var(--visited-text);
-}
 
 /* ПРИСОЕДИНЯЙТЕСЬ */
 
