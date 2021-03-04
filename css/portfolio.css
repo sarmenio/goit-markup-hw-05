@@ -113,10 +113,6 @@
     color: var(--blue-text-button);
 }
 
-.link-title a:visited {
-    color: var(--visited-text);
-}
-
 
 .link-title-portfolio.current {
     color: var(--blue-text-button);
@@ -168,10 +164,6 @@
     color: var(--blue-text-button);
    }
 
-
-.link-contacts a:visited {
-    color: var(--visited-text);
-}
 
 .envelope {
     margin-top: 1px;
@@ -423,9 +415,6 @@
     color: var(--blue-text-button);
     }
 
-.footer-links a:visited {
-    color: var(--visited-text);
-}
 
 /* ПРИСОЕДИНЯЙТЕСЬ */
 
